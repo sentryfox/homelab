@@ -18,11 +18,12 @@ For this project, I use Proxmox and an old laptop to build my homelab server. Th
 - Docker
 - Web browser from another device (in this case—my main laptop)
 
-<h2>Roadmap for project:</h2>
+<h2>Architect for project:</h2>
 
 - Hardware
-  - Proxmox
-    - VM or LXC (Linux)
-      - Docker
-        - Jellyfin (media service)
+  - Proxmox (host OS)
+    - VM with Ubuntu (for NAS)
+      - Docker (container)
+        - File storage (Pending)
+        - Jellyfin (media streaming)
         - immich (photo/video storage)
