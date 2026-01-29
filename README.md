@@ -11,6 +11,7 @@ For this project, I use Proxmox and an old laptop to build my homelab server. Th
 - Main laptop (used to configure and maintain proxmox)
 - e-thernet cable
 - e-thernet to USB-C converter
+- 12 TB HDD (seagate iron wolf)
 
 <h2>Environments Used </h2>
 
