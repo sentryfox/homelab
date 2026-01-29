@@ -25,5 +25,4 @@ For this project, I use Proxmox and an old laptop to build my homelab server. Th
     - VM with Ubuntu (for NAS)
       - Docker (container)
         - File storage (Pending)
-        - Jellyfin (media streaming)
         - immich (photo/video storage)
