@@ -6,18 +6,18 @@ For this project, I use Proxmox and an old laptop to build my homelab server. Th
 
 <h2>Equipment and Utilities used</h2>
 
-- Ventoy USB 
-- Old laptop
-- Main laptop (used to configure and maintain proxmox)
-- e-thernet cable
-- e-thernet to USB-C converter
-- 12 TB HDD (seagate iron wolf)
+<li> Ventoy USB </li>
+<li> Old laptop </li>
+<li> Main laptop (used to configure and maintain proxmox) </li>
+<i> e-thernet cable </i>
+<i> e-thernet to USB-C converter
+<i> HDD (seagate iron wolf) </i>
 
 <h2>Environments Used </h2>
 
-- Proxmox
-- Docker
-- Web browser from another device (in this case—my main laptop)
+<li> Proxmox </li>
+<li> Docker </li>
+<li> Web browser from another device (in this case—my main laptop) </li>
 
 <h2>Architect for project:</h2>
 
